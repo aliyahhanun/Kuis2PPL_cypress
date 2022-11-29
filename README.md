@@ -7,7 +7,7 @@ NIM : 1941720175 <br>
 Kelas : TI 3C <br>
 No. Absen : 03 <br>
 
-### Tes Scenario : Mengecek Fungsi Data Transaksi Pada Project Website Hotel <br>
+### Test Scenario : Mengecek Fungsi Data Transaksi Pada Project Website Hotel <br>
 
 ### Test Case : <br>
 
